@@ -1,5 +1,16 @@
 /* styles */
-p {
-    color: deeppink;
-    font-family: "Veranda", "DejaVu Sans", `sans-serif;
+.odd {
+    color: #ff1493;
+    font-family: "Veranda", "DejaVu Sans", "sans-serif";
+}
+#two {
+    font-size: 24px;
+}
+#three {
+    font-size: 24px;
+}
+#four {
+    background-color: limegreen;
+    font-size: 24px;
+    font-weight: bold;
 }
